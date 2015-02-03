@@ -1,0 +1,67 @@
+.props_table
+{
+	border-collapse: collapse;
+}
+.props_table  td
+{
+	padding: 5px 0; 
+	border-bottom: 1px dotted #aaa;
+}
+.props_table .char_name span
+{
+	font-style: normal;
+	padding-right: 10px;
+	left: -2px;
+}
+.props_table .char_value
+{
+	text-align: right;
+}
+.props_table .char_value span
+{
+	padding-left: 10px;
+	right: -2px;
+}
+.props_table .char_name span,  .props_table .char_value span
+{
+	display: inline-block;
+	background: #fff;
+	background: #fff;
+	position: relative;
+	zoom: 1;
+	bottom: -10px;
+}
+.char_name .hint .icon i
+{
+	margin-right: 1px;
+}
+.char_name .hint .icon
+{
+	display: inline-block;
+	position: absolute;
+	cursor: pointer;
+	border: 1px solid #bbb;
+	border-radius: 3px;
+	line-height: 12px;
+	font-size: 10px;
+	left: -20px;
+	text-align: center;
+	padding: 0;
+	top: 1px;
+	display: block;
+	height: 11px;
+	width: 11px;
+	background: #eee;
+	font-style: italic;
+}
+.char_name .hint .icon:hover + .tooltip
+{
+	display: block;
+}
+.char_name .hint .tooltip
+{
+	display: none;
+	position: absolute;
+	left: -50px;
+	top: 20px;
+}

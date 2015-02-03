@@ -1,0 +1,6 @@
+.differences .remove_item
+{
+	top: 0 !important;
+	left: 0 !important;
+	display: inline-block !important;
+}

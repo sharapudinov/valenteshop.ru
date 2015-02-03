@@ -1,0 +1,1 @@
+<a href="/" ><img src="/upload/medialibrary/d92/valente.png" title="valente.png" border="0" alt="valente.png" width="426" height="68"  /></a>

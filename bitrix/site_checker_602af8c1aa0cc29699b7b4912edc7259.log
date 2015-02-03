@@ -1,0 +1,66 @@
+2015-Feb-03 16:22:43 Наличие необходимых модулей php (check_php_modules): Ok
+Все необходимые модули установлены
+2015-Feb-03 16:22:43 Обязательные параметры PHP (check_php_settings): Ok
+Настройки правильные
+2015-Feb-03 16:22:43 Модули веб-сервера (check_security): Ok
+Конфликтов не выявлено
+2015-Feb-03 16:22:43 Значения переменных сервера (check_server_vars): Ok
+Корректные
+2015-Feb-03 16:22:43 Сохранение сессии (check_session): Ok
+50% done
+2015-Feb-03 16:22:44 Сохранение сессии (check_session): Ok
+Успешно
+2015-Feb-03 16:22:44 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
+Правильные. Сайт работает в UTF кодировке
+2015-Feb-03 16:22:44 Работа с сокетами (check_socket): Ok
+Connection to valenteshop.ru:80	Success
+
+Успешно
+2015-Feb-03 16:22:44 Параметры подключения к базе данных (check_dbconn_settings): Ok
+Успешно
+2015-Feb-03 16:22:44 Лишний вывод в файлах конфигурации (check_dbconn): Ok
+Connection to valenteshop.ru:80	Success
+
+Успешно
+2015-Feb-03 16:22:44 Выполнение агентов на cron (check_bx_crontab): Warning
+Замечание. Агенты выполняются на хитах, рекомендуется перевести выполнение агентов на cron
+2015-Feb-03 16:22:44 Сохранение сессии без UserAgent (check_session_ua): Ok
+50% done
+Connection to valenteshop.ru:80	Success
+
+2015-Feb-03 16:22:44 Сохранение сессии без UserAgent (check_session_ua): Ok
+Connection to valenteshop.ru:80	Success
+
+Успешно
+2015-Feb-03 16:22:44 Настройки сайтов (check_sites): Ok
+Правильные
+2015-Feb-03 16:22:44 Служебные скрипты в корне сайта (check_install_scripts): Ok
+Отсутствуют
+2015-Feb-03 16:22:44 Передача объектов по ссылке (check_clone): Ok
+Успешно
+2015-Feb-03 16:22:44 Размер стека и pcre.recursion_limit (check_pcre_recursion): Warning
+Connection to valenteshop.ru:80	Success
+
+Замечание. Возможны проблемы в работе с длинными строками из-за системных ограничений
+2015-Feb-03 16:22:45 Вызов method_exists на строке (check_method_exists): Fail
+Connection to valenteshop.ru:80	Success
+== Request ==
+GET /bitrix/admin/site_checker.php?test_type=method_exists&unique_id=d35ce55ab5bd34fefdba84ffade42814 HTTP/1.1
+Host: valenteshop.ru
+
+
+== Response ==
+HTTP/1.1 500 Internal Server Error
+Server: nginx
+Date: Tue, 03 Feb 2015 13:22:45 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 3657
+Connection: keep-alive
+Accept-Ranges: bytes
+
+== Body ==
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Внутренняя ошибка</title><link rel="stylesheet" media="all" href="/hosting_static_500/style.css"><link rel="icon" href="/hosting_static_500/favicon.ico" type="image/x-icon"><script src="/hosting_static_500/modernizr.js"></script><!--[if lt IE 9]><script src="/hosting_static_500/html5shiv.js"></script><![endif]--></head><body class="b-page"><header class="b-header-parking"><div class="b-parking__grid b-page__content-wrapper"><div class="b-parking__left-side"><div class="b-header-parking__content b-header-parking__content-logo"><div class="l-overflow"><div class="b-header-parking__name"><strong class="b-header-parking__title"><span class="j_dname"></span></strong> <em class="b-header-parking__desc">Сайт обслуживается в REG.RU</em></div></div></div></div><div class="b-parking__divider"></div><div class="b-parking__right-side b-menu-external"><a href="https://www.reg.ru/" class="b-menu-exter ... (3657 bytes)
+==========
+
+Ошибка! Не работает
+2015

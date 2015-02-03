@@ -1,0 +1,11 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Title");
+?>
+<?$APPLICATION->IncludeComponent(
+	"bitrix:sale.personal.order.detail",
+	"",
+	$arDetParams,
+	$component
+);?>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

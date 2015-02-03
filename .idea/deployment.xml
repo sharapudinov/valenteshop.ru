@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="valenteshop.production" createEmptyFolders="true">
+    <serverData>
+      <paths name="valenteshop.production">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/www/valenteshop.ru" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/www/valenteshop.ru/bitrix/activities" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/admin" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/backup" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/cache" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/catalog_export" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/fonts" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/gadgets" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/image_uploader" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/images" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/js" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/managed_cache" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/otp" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/panel" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/public" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/services" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/sounds" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/stack_cache" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/themes" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/tmp" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/tools" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/updates" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/wizards" />
+            <excludedPath path="/www/valenteshop.ru/bitrix/php_interface" />
+            <excludedPath path="/www/valenteshop.ru/upload" />
+            <excludedPath path="/www/valenteshop.ru/upload_bel" />
+            <excludedPath path="/www/valenteshop.ru/webstat" />
+            <excludedPath path="/www/valenteshop.ru/webstat2" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/activities" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/admin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/backup" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/cache" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/catalog_export" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/fonts" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/gadgets" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/image_uploader" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/images" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/js" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/managed_cache" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/otp" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/panel" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/public" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/services" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/sounds" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/stack_cache" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/themes" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/tmp" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/tools" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/updates" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/wizards" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/php_interface" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upload_bel" />
+            <excludedPath local="true" path="$PROJECT_DIR$/webstat" />
+            <excludedPath local="true" path="$PROJECT_DIR$/webstat2" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

@@ -1,0 +1,81 @@
+.basket 
+{
+	background: none;
+	padding-left: 0;
+	height: auto;
+	position: relative;
+	zoom: 1;
+	top: -8px;
+	background: url('/bitrix/templates/ishop/img/basket_shadow.png') top left no-repeat;
+	min-height: 50px;
+	padding-left: 55px !important;
+	margin-right: 5px;
+}
+.basket  .icon, .delay  .icon
+{
+	background: url('/bitrix/templates/ishop/img/basket_icons.png') -7px -7px no-repeat;
+	display: inline-block;
+	height: 45px;
+	width: 47px;
+	position: relative;
+	zoom: 1;
+	bottom: -22px;
+	margin-right: 5px;
+}
+.basket  .icon
+{
+	background-position: -7px -7px;
+}
+.delay  .icon
+{
+	background-position: -7px -128px;
+}
+.basket .counter
+{
+	line-height: 17px !important;
+}
+.basket  .delay, .basket form
+{
+	display: inline-block;
+}
+.basket  .delay
+{
+	margin-right: 50px;
+	float: left;
+}
+.basket  a
+{
+	font-size: 14px;
+}
+.basket  .delay a
+{
+	color: black;
+	display: inline-block;
+	zoom: 1;
+}
+.basket  .delay a:hover
+{
+	color: #188B77;
+}
+.basket .counter
+{
+	width: auto !important;
+	white-space: nowrapp;
+	min-width: 110px;
+}
+.basket .counter_mini
+{
+	display: none;
+	bottom: -2px;
+	zoom: 1;
+	position: relative;
+}
+.basket .counter_mini a
+{
+	color: #000 !important;
+	text-decoration: none;
+}
+.basket .button
+{
+	margin-left: 35px;
+}

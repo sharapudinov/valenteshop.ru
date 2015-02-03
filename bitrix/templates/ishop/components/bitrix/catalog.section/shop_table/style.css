@@ -1,0 +1,9 @@
+.table_item .likes_icons.cant_buy
+{
+	margin-left: 0;
+}
+.likes_icons.cant_buy a.compare_item
+{
+	position: static;
+	margin: 0;
+}

@@ -1,0 +1,324 @@
+#order_form_div .sof-req 
+{
+	font-size: 10px;
+}
+#order_form_div .clear 
+{
+	content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+	font-size: 0px;
+	line-height: 0px;
+}
+#order_form_div  input[type="radio"] 
+{
+	margin: -3px 5px 0 0;
+}
+#order_form_div button.button.do_order
+{
+	margin: -35px 0 40px 0;
+}
+#order_form_div button.button
+{
+	margin-top: 10px;
+}
+#order_form_div .sale_order_table input[type="text"], #order_form_div .sale_order_table textarea, #order_form_div .sale_order_table select 
+{
+	width: 100%;
+}
+#order_form_div .section 
+{
+	margin-bottom: 30px;
+}
+#order_form_div .title 
+{
+	font-size: 20px;
+	line-height: 26px;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	border-bottom: 1px solid #d4d4d4;
+}
+#order_form_div hr
+{
+	border: 0;
+	border-bottom: 1px solid #d4d4d4;
+	height: 0;
+	margin: 20px 0;
+}
+#order_form_div .title.inline
+{
+	display: inline-block;
+}
+#order_form_div .title a 
+{
+	font-size: 12px;
+	text-decoration: none;
+	margin-left: 10px;
+	outline: none;
+	border-bottom: 1px dashed;
+}
+#order_form_div .label.left 
+{
+	float: left;
+	margin: 0 30px 10px 0;
+}
+#order_form_div .sale_order_table 
+{
+	font-size: 12px;
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+}
+#order_form_div .sale_order_table td
+{
+	padding: 15px 0;
+	position: relative;
+	zoom: 1;
+}
+#order_form_div .sale_order_table .name 
+{
+	width: 190px;
+	vertical-align: top;
+	font-weight: bold;
+}
+#order_form_div .sale_order_table.props td 
+{
+	border-bottom: 1px solid #dcdfe2;
+}
+#order_form_div .sale_order_table textarea 
+{
+	height: 70px;
+	overflow: hidden;
+	resize: none;
+}
+#order_form_div .sale_order_table .desc 
+{
+	color: #999;
+	font-size: 11px;
+	margin: 3px 0;
+}
+
+
+#order_form_div .sale_order_table.paysystem td 
+{
+	border-bottom: none;
+}
+#order_form_div .sale_order_table .ps_logo 
+{
+	float: left;
+	text-align: center;
+	margin: 0 15px 10px 0;
+	height: 85px;
+}
+#order_form_div .sale_order_table .ps_logo img, #order_form_div  .sale_order_confirm img, #order_form_div .account img 
+{
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-o-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border: 1px solid #d1d1d1;
+	box-shadow: 2px 2px 2px rgba(180,188,191,0.5);
+	-moz-box-shadow: 2px 2px 2px rgba(180,188,191,0.5);
+	-o-box-shadow: 2px 2px 2px rgba(180,188,191,0.5);
+	-webkit-box-shadow: 2px 2px 2px rgba(180,188,191,0.5);
+	padding:1px;
+}
+#order_form_div .sale_order_table .ps_logo input[type=radio], #order_form_div .account input[type=checkbox] 
+{
+	display: none;
+}
+#order_form_div .sale_order_table .ps_logo img:hover,
+#order_form_div .sale_order_table .ps_logo input[type=radio]:checked + label img 
+{
+	border: 2px solid #188b77;
+	cursor: pointer;
+	padding:0;
+}
+#order_form_div .sale_order_table .paysystem_name, #order_form_div .sale_order_confirm .paysystem_name 
+{
+	font-size: 11px;
+	color: #a3a3a3;
+	width: 95px;
+	line-height: 11px;
+	margin-top: 3px;
+}
+#order_form_div .account img, #order_form_div .account .desc 
+{
+	float: left;
+}
+#order_form_div .account img
+ {
+	margin-right: 10px;
+}
+#order_form_div .account .name
+ {
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+#order_form_div .account .desc
+ {
+	font-size: 11px;
+	line-height: 11px;
+}
+
+#order_form_div .account label:hover img,
+#order_form_div .account img.active 
+{
+	border: 2px solid #188b77;
+	cursor: pointer;
+	padding:0;
+}
+
+/*delivery*/
+#order_form_div .sale_order_table.delivery td 
+{
+	padding: 7px 0;
+}
+#order_form_div .sale_order_table.delivery .name 
+{
+	font-weight: bold;
+	color: #636363;
+	width: auto;
+}
+#order_form_div .sale_order_table.delivery .desc 
+{
+	max-width: 400px;
+}
+#order_form_div .sale_order_table.delivery td table 
+{
+	width: auto;
+}
+#order_form_div .sale_order_table.delivery td table td 
+{
+	padding: 0;
+	text-align: left;
+}
+#order_form_div .sale_order_table.delivery .prop img 
+{
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-o-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border: 1px solid #d1d1d1;
+	box-shadow: 2px 2px 2px rgba(180,188,191,0.5);
+	-moz-box-shadow: 2px 2px 2px rgba(180,188,191,0.5);
+	-o-box-shadow: 2px 2px 2px rgba(180,188,191,0.5);
+	-webkit-box-shadow: 2px 2px 2px rgba(180,188,191,0.5);
+	padding:1px;
+	margin: 0 10px 0 0;
+}
+#order_form_div .sale_order_table.delivery .prop input, #order_form_div .sale_order_table.delivery .prop img, #order_form_div .sale_order_table.delivery .prop .desc 
+{
+	float: left;
+	margin-right: 10px;
+}
+#order_form_div .sale_order_table.delivery .prop input[type=radio] 
+{
+	display: none;
+}
+#order_form_div .sale_order_table.delivery label:hover img, #order_form_div .sale_order_table.delivery input[type=radio]:checked + label img,
+#order_form_div  div.ps_logo.selected img
+{
+	border: 2px solid #188b77;
+	cursor: pointer;
+	padding:0;
+}
+
+/*summary*/
+#order_form_div .sale_data-table 
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+	margin-top: 10px;
+}
+#order_form_div .sale_data-table td.itog 
+{
+	text-align: right;
+}
+#order_form_div .sale_data-table tfoot td 
+{
+	border-bottom: none;
+}
+#order_form_div .sale_data-table tfoot tr.last td 
+{
+	border-top: 1px solid #f5f5f5;
+	font-weight: bold;
+	white-space: nowrap;
+}
+#order_form_div .order_comment 
+{
+	width: 100%;
+}
+#order_form_div .order_comment div 
+{
+	margin-bottom: 5px;
+}
+#order_form_div .order_comment textarea 
+{
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	height: 70px;
+}
+
+/* auth */
+#order_form_div .order-auth 
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+}
+#order_form_div .order-auth td {
+	text-align: left;
+	vertical-align: top;
+}
+#order_form_div .sale_order_table.delivery .errortext 
+{
+	margin: 0;
+	font-size: 11px;
+	padding: 5px;
+	width: 230px;
+}
+#order_form_div .sale_order_full_table td.ps_logo 
+{
+	text-align: left;
+	vertical-align: top;
+}
+#order_form_div .sale_order_full_table .ps_logo .pay_name 
+{
+	font-weight: bold;
+	margin-bottom: 5px;
+	font-size: 15px;
+}
+.store_location
+ {
+	display:none;
+}
+.store_location .ora-store 
+{
+	width: 40%;
+	float: left;
+}
+.store_location .ora-store table td 
+{
+	padding: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+.store_location .name 
+{
+	font-weight: bold;
+}
+.store_location .location
+ {
+	width: 60%;
+	float: left;
+}
+#order_form_div .section:last-child
+{
+	margin-bottom: 0;
+}

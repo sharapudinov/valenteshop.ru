@@ -1,0 +1,74 @@
+Options -Indexes 
+ErrorDocument 404 /404.php
+
+<IfModule mod_php5.c>
+  php_flag session.use_trans_sid off
+  #php_value display_errors 1
+  #php_value mbstring.internal_encoding UTF-8
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  Options +FollowSymLinks
+  RewriteEngine On
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.valenteshop.ru$ [NC]
+RewriteRule ^(.*)$ http://valenteshop.ru/$1 [R=301,L]
+
+
+
+RewriteRule ^catalog/vanny/pryamougolnye_vanny_/$ /catalog/vanny/pryamougolnye_vanny/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/belbagno/$ /catalog/mebel_dlya_vannoy_komnaty1/belbagno/  [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/santurash_santurash/$ /catalog/mebel_dlya_vannoy_komnaty1/santurash_santurash/  [R=301,L]
+RewriteRule ^catalog/umyvalniki_i_unitazy/$ /catalog/rakoviny_umyvalniki/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/cezares_chezares/$ /catalog/mebel_dlya_vannoy_komnaty1/cezares_chezares/  [R=301,L]
+
+
+
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_acquisto_akvisto/$  /catalog/mebel_dlya_vannoy_komnaty/acquisto/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_aggeto_aggeto/$  /catalog/mebel_dlya_vannoy_komnaty/aggeto/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_balzo_balzo/$  /catalog/mebel_dlya_vannoy_komnaty/balzo/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_brioso_brioso/$  /catalog/mebel_dlya_vannoy_komnaty/brioso/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_callisto_kallisto/$  /catalog/mebel_dlya_vannoy_komnaty/callisto/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_eco_eko/$  /catalog/mebel_dlya_vannoy_komnaty/eko/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_eletto_eletto/$  /catalog/mebel_dlya_vannoy_komnaty/eletto/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_felice_felis/$  /catalog/mebel_dlya_vannoy_komnaty/felice/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_festa_festa/$  /catalog/mebel_dlya_vannoy_komnaty/festa/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_forza_forza/$  /catalog/mebel_dlya_vannoy_komnaty/forza/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_inizio_initsio/$  /catalog/mebel_dlya_vannoy_komnaty/inizio/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_ispirato_ispirato/$  /catalog/mebel_dlya_vannoy_komnaty/ispirato/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_lacrima_lakrima/$  /catalog/mebel_dlya_vannoy_komnaty/lacrima/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_massima_massima/$  /catalog/mebel_dlya_vannoy_komnaty/massimo/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_melato_melato/$  /catalog/mebel_dlya_vannoy_komnaty/melato/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_modesto_modesto/$  /catalog/mebel_dlya_vannoy_komnaty/modesto/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_musa_musa/$  /catalog/mebel_dlya_vannoy_komnaty/musa/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_punto_punto/$  /catalog/mebel_dlya_vannoy_komnaty/punto/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_requerdo_rekuerdo/$  /catalog/mebel_dlya_vannoy_komnaty/requerdo/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_severita_severita/$  /catalog/mebel_dlya_vannoy_komnaty/severita/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_severita_new_severita_novaya/$  /catalog/mebel_dlya_vannoy_komnaty/new_severita/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_tagliare_talyari/$  /catalog/mebel_dlya_vannoy_komnaty/tagliare/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_vanto_vanto/$  /catalog/mebel_dlya_vannoy_komnaty/vanto/ [R=301,L]
+RewriteRule ^catalog/mebel_dlya_vannoy_komnaty/valente_versante_versante/$  /catalog/mebel_dlya_vannoy_komnaty/versante/ [R=301,L]
+RewriteRule ^catalog/umyvalniki/$  /catalog/rakoviny_umyvalniki/ [R=301,L]
+RewriteRule ^catalog/modul_s_rakovinoy/$  /catalog/tumba_s_rakovinoy/ [R=301,L]
+
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !/bitrix/urlrewrite.php$
+  RewriteRule ^(.*)$ /bitrix/urlrewrite.php [L]
+  RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+</IfModule>
+
+<IfModule mod_dir.c>
+  DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive on
+  ExpiresByType image/jpeg "access plus 3 day"
+  ExpiresByType image/gif "access plus 3 day"
+  ExpiresByType image/png "access plus 3 day"
+  ExpiresByType text/css "access plus 3 day"
+  ExpiresByType application/javascript "access plus 3 day"  
+</IfModule>

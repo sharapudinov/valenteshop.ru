@@ -1,0 +1,994 @@
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:03
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/sections.php
+Request URI: /catalog/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:07
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.section.list/shop_groups/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.section.list/component.php:185
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:07
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/news.list/advt/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/news.list/component.php:316
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:07
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/sale.viewed.product/shop/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/sale.viewed.product/component.php:315
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:07
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/section.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:09
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.smart.filter/shop/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/versante/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.smart.filter/component.php:518
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:09
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/news.list/advt/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/versante/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/news.list/component.php:316
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:09
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/sale.viewed.product/shop/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/versante/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/sale.viewed.product/component.php:315
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:09
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.compare.list/preview/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/versante/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.compare.list/component.php:129
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:09
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.section/shop_list/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/versante/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.section/component.php:1090
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:09
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/section.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/versante/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:13
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.compare.list/preview/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/versante/versante_900/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.compare.list/component.php:129
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:14
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.section/shop_options_1/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/versante/versante_900/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.section/component.php:1090
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:14
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.element/shop_apd_1/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/versante/versante_900/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.element/component.php:875
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:14
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/sale.viewed.product/shop/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/versante/versante_900/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/sale.viewed.product/component.php:315
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:14
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/news.list/advt/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/versante/versante_900/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/news.list/component.php:316
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:33:14
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/element.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/versante/versante_900/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:34:28
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/index@.html.delete.1405082068.4615
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:34:32
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.smart.filter/shop/template.php
+Request URI: /catalog/fasady/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.smart.filter/component.php:518
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:34:32
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/news.list/advt/template.php
+Request URI: /catalog/fasady/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/news.list/component.php:316
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:34:32
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/sale.viewed.product/shop/template.php
+Request URI: /catalog/fasady/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/sale.viewed.product/component.php:315
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:34:32
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.compare.list/preview/template.php
+Request URI: /catalog/fasady/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.compare.list/component.php:129
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:34:32
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/section.php
+Request URI: /catalog/fasady/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:35:20
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/element.php
+Request URI: /catalog/penaly/shkaf_penal_universalnyy_blz400_59_60/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:35:25
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/section.php
+Request URI: /catalog/dushevye_kabiny_i_ugolki/kabiny/498/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:36:29
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.compare.list/preview/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/balzo/balzo_550/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.compare.list/component.php:129
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:36:31
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.section/shop_options_1/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/balzo/balzo_550/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.section/component.php:1090
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:36:31
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.element/shop_apd_1/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/balzo/balzo_550/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.element/component.php:875
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:36:31
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/element.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/balzo/balzo_550/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:36:56
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.section/shop_list/template.php
+Request URI: /catalog/smesiteli/smesiteli_dlya_umyvalnika/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.section/component.php:1090
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:37:45
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.element/shop_apd_1/template.php
+Request URI: /catalog/zerkalnye_shkafy/zerkalnyy_shkaf_l_r_blz550_12_02/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.element/component.php:875
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:37:45
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/element.php
+Request URI: /catalog/zerkalnye_shkafy/zerkalnyy_shkaf_l_r_blz550_12_02/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:38:09
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/element.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/balzo/balzo_550/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:38:28
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.element/shop_apd_1/template.php
+Request URI: /catalog/zerkala/zerkalo_blz550_11/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.element/component.php:875
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:38:29
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/element.php
+Request URI: /catalog/zerkala/zerkalo_blz550_11/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:38:40
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/element.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/balzo/balzo_550/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:38:44
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/element.php
+Request URI: /catalog/penaly/shkaf_penal_universalnyy_blz400_59_60/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:39:37
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/element.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/balzo/balzo_550/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:39:47
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.element/shop_apd_1/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/balzo/balzo_850/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.element/component.php:875
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:39:47
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/element.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/balzo/balzo_850/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:40:03
+Module: composite
+Template: /bitrix/components/bitrix/socserv.auth.form/templates/.default/template.php
+Request URI: /shop/product/svetilnik-valente-tagliare-t3-71/
+Script: /bitrix/urlrewrite.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/socserv.auth.form/component.php:29
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:40:03
+Module: composite
+Template: /bitrix/components/bitrix/system.auth.authorize/templates/.default/template.php
+Request URI: /shop/product/svetilnik-valente-tagliare-t3-71/
+Script: /bitrix/urlrewrite.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/system.auth.authorize/component.php:127
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:43:21
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/index@.html.delete.1405082601.0075
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:43:41
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/mebel_dlya_vannoy_komnaty/balzo/index@.html.delete.1405082621.9839
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:43:48
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.element/shop_apd_1/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/balzo/balzo_650/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.element/component.php:875
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:43:48
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog/shop_apd/element.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/balzo/balzo_650/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog/component.php:134
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:52:16
+Module: composite
+Template: /bitrix/components/my/catalog.section/templates/home_section/template.php
+Request URI: /
+Script: /index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/my/catalog.section/component.php:382
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:52:16
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/index@.html.delete.1405083136.4743
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:394
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:52:43
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/mebel_dlya_vannoy_komnaty/forza/index@.html.delete.1405083163.2811
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:52:57
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/mebel_dlya_vannoy_komnaty/balzo/index@.html.delete.1405083177.3505
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:53:13
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/mebel_dlya_vannoy_komnaty/balzo/balzo_850/index@.html.delete.1405083193.2658
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:53:36
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/index@.html.delete.1405083216.8624
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:53:40
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/contacts/index@.html.delete.1405083220.6467
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:55:42
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/index@.html.delete.1405083342.8574
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 16:57:33
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/index@.html.delete.1405083453.1703
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:00:10
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/modul_s_rakovinoy/tumba_s_rakovinoy_ms900_91/index@.html.delete.1405083610.5237
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:00:55
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/mebel_dlya_vannoy_komnaty/musa/musa_900/index@.html.delete.1405083655.8952
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:01:04
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/zerkalnye_shkafy/zerkalnyy_shkaf_s_podsvetkoy_ms900_12/index@.html.delete.1405083664.4324
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:01:07
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/mebel_dlya_vannoy_komnaty/musa/musa_900/index@.html.delete.1405083667.5628
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:02:20
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/mebel_dlya_vannoy_komnaty/index@.html.delete.1405083740.5329
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:03:03
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/penaly/shkaf_penal_l_r_ms400_57_58/index@.html.delete.1405083783.0372
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:03:07
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/mebel_dlya_vannoy_komnaty/musa/musa_900/index@.html.delete.1405083787.2653
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:03:10
+Module: composite
+Template: /bitrix/templates/ishop/components/aspro/social.info/template/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/?clear_cache=Y
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/aspro/social.info/component.php:21
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:03:10
+Module: composite
+Template: /bitrix/templates/ishop/components/aspro/social.info/template/template.php
+Request URI: /catalog/mebel_dlya_vannoy_komnaty/?clear_cache=Y
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/aspro/social.info/component.php:21
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:06:30
+Module: composite
+Template: /bitrix/components/my/catalog.section/templates/home_section/template.php
+Request URI: /?back_url_admin=%2Fbitrix%2Fadmin%2Fiblock_list_admin.php%3FIBLOCK_ID%3D15%26type%3Daspro_ishop_catalog%26lang%3Dru%26find_section_section%3D0
+Script: /index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/my/catalog.section/component.php:382
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:06:33
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.section.list/shop_apd/template.php
+Request URI: /catalog/
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.section.list/component.php:185
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:06:35
+Module: composite
+Template: /bitrix/templates/ishop/components/aspro/social.info/template/template.php
+Request URI: /catalog/?clear_cache=Y
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/aspro/social.info/component.php:21
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:06:35
+Module: composite
+Template: /bitrix/templates/ishop/components/bitrix/catalog.section.list/shop_apd/template.php
+Request URI: /catalog/?clear_cache=Y
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/catalog.section.list/component.php:185
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:06:35
+Module: composite
+Template: /bitrix/templates/ishop/components/aspro/social.info/template/template.php
+Request URI: /catalog/?clear_cache=Y
+Script: /catalog/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/aspro/social.info/component.php:21
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:06:56
+Module: composite
+Template: /bitrix/components/my/catalog.section/templates/home_section/template.php
+Request URI: /
+Script: /index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/my/catalog.section/component.php:382
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:06:56
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/index@.html.delete.1405084016.1133
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:394
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:10:27
+Module: composite
+Template: /bitrix/components/bitrix/socserv.auth.form/templates/.default/template.php
+Request URI: /shop/category/brand/offset80/?prod_per_page=20&sort=name&direction=ASC
+Script: /bitrix/urlrewrite.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/socserv.auth.form/component.php:29
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:10:27
+Module: composite
+Template: /bitrix/components/bitrix/system.auth.authorize/templates/.default/template.php
+Request URI: /shop/category/brand/offset80/?prod_per_page=20&sort=name&direction=ASC
+Script: /bitrix/urlrewrite.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/system.auth.authorize/component.php:127
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:10:50
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/vanny/uglovye_vanny_/vanna_doctor_jet_alice_c/index@.html.delete.1405084250.2073
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:11:03
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/mebel_dlya_vannoy_komnaty/vanto/vanto_800/index@.html.delete.1405084263.2603
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:11:18
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/mebel_dlya_vannoy_komnaty/valente_brioso_brioso/index@.html.delete.1405084278.3643
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:11:25
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/catalog/penaly/shkaf_penal_brs_350_55_56/index@.html.delete.1405084285.785
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:11:28
+Module: composite
+/var/www/u8375055/data/www/valenteshop.ru/bitrix/html_pages/valenteshop.ru/index@.html.delete.1405084288.9202
+    Bitrix\Main\Data\StaticHtmlCache::delete < Bitrix\Main\Page\Frame::onEndBufferContent < call_user_func_array < ExecuteModuleEventEx < CAllMain::EndBufferContent
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/lib/page/frame.php:360
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/module.php:461
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4380
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/main.php:4343
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:11:38
+Module: composite
+Template: /bitrix/templates/ishop/components/aspro/eshop.sale.basket.basket/shop/template.php
+Request URI: /basket/
+Script: /basket/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/aspro/eshop.sale.basket.basket/component.php:441
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:11:40
+Module: composite
+Template: /bitrix/templates/ishop/components/aspro/eshop.sale.basket.basket/shop/template.php
+Request URI: /basket/
+Script: /basket/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/aspro/eshop.sale.basket.basket/component.php:441
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:11:44
+Module: composite
+Template: /bitrix/components/bitrix/socserv.auth.form/templates/.default/template.php
+Request URI: /auth/
+Script: /auth/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/socserv.auth.form/component.php:29
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
+Host: valenteshop.ru
+Date: 2014-07-11 17:11:44
+Module: composite
+Template: /bitrix/components/bitrix/system.auth.authorize/templates/.default/template.php
+Request URI: /auth/
+Script: /auth/index.php
+    CBitrixComponentTemplate::__IncludePHPTemplate < CBitrixComponentTemplate::IncludeTemplate < CBitrixComponent::showComponentTemplate < CBitrixComponent::includeComponentTemplate < include
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component_template.php:584
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:615
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:564
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/components/bitrix/system.auth.authorize/component.php:127
+	/var/www/u8375055/data/www/valenteshop.ru/bitrix/modules/main/classes/general/component.php:480
+----------
